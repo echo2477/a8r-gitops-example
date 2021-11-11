@@ -11,3 +11,7 @@ k8s_config:
   cluster_info:
     cluster_id: 7fb106c6-7403-5e93-90f5-59ba26f46ea4
     cluster_name: demo-prod-97019adb-a882-4341-88b3-7bffb24973f4
+- manifest_path: /manifest
+  cluster_info:
+    cluster_id: 46e50bf5-96c3-5497-867c-437b1a40c669
+    cluster_name: demo-prod-006fdf58-35a4-4f0e-b9a1-4bfd063332cf
